@@ -2,9 +2,9 @@
   <img src="./img/eksi_sozluk_network.png" title="Eksi Sozluk Network" width=20% height=20%>
 </p>
 
-<p align="center">
+<div align="center">
   <h1>CS-Trust2Vec: Context-Sensitive Trust Network Embedding Model</h1> 
-</p>
+</div>
 
 <p align="center">
   <a href="https://github.com/oonat/CS-Trust2Vec/blob/main/cstrust2vec.pdf">Paper</a> | 
