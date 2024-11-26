@@ -100,7 +100,7 @@ Several options can be used with the module,
 To learn about all options, type **--help**.
 
 ## Dataset
-Due to the lack of social network datasets that have context information in the literature, we curated our own dataset by scraping a Turkish online social media platform named [Ekşi Sözlük](https://eksisozluk.com/). Although all the users in the dataset are anonymized, we chose not to share the data set in the repository to restrict its use to academic studies only. If you would like to use the data set for academic purposes, please email us at onat.ozdemir@metu.edu.tr.
+Due to the lack of social network datasets that have context information in the literature, we curated our own dataset by scraping a Turkish online social media platform named [Ekşi Sözlük](https://eksisozluk.com/). Although all the users in the dataset are anonymized, we chose not to share the dataset in the repository to restrict its use to academic studies only. If you would like to use the dataset for academic purposes, please email us at onat.ozdemir@metu.edu.tr.
 
 ## Acknowledgement
 In this project, we benefit from "[Social trust Network Embedding](https://ieeexplore.ieee.org/document/8970926)", Pinghua Xu, Wenbin Hu, Jia Wu, Weiwei Liu, Bo Du, and Jian Yang, ICDM 2019 and the following GitHub repo: https://github.com/WHU-SNA/STNE.
