@@ -2,14 +2,17 @@
   <img src="./img/eksi_sozluk_network.png" title="Eksi Sozluk Network" width=20% height=20%>
 </p>
 
-<center> 
+<p align="center">
   <h1>CS-Trust2Vec: Context-Sensitive Trust Network Embedding Model</h1> 
-</center>
+</p>
 
-<center> 
-  <a href="">Paper</a> | 
-  <a href="">Poster</a> 
-</center>
+<p align="center">
+  <a href="https://github.com/oonat/CS-Trust2Vec/blob/main/cstrust2vec.pdf">Paper</a> | 
+  <a href="https://github.com/oonat/CS-Trust2Vec/blob/main/poster.pdf">Poster</a> 
+</p>
+
+<br />
+<br />
 
 ## About the Project
 CS-Trust2Vec is a context-sensitive trust network embedding model. It is designed for unsigned context-labeled trust networks which are directed graphs that store the context information of the trust relationships as edge attributes.
